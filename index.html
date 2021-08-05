@@ -6,15 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name = "keywords" content = "Crypto, FCT, Flash Crypto Token" />
     <meta name = "description" content = "Flash Crypto Token" />
-	  
-    
-
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://FlashCryptoToken.github.io/" />
     <meta property="og:image" content="https://FlashCryptoToken.github.io/img/fct.png" />
     <meta property="og:description" content="FCT stands for Flash Crypto Token, This Connector Adds the BSC mainnet to metamask if you don't already have it along with Flash Crypto Token and logo" />
 
     <title>FlashCryptoToken</title>
+    
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
     <link rel="stylesheet" href="css/all.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
